@@ -1,7 +1,46 @@
 body{
     background-image: url(BG.png);
     background-repeat: no-repeat;
-    background-size: contain;}
+    background-size: contain;
+    position: relative;
+}
 div{margin-top: 121px;
     margin-left: 538px;
-    margin-right: 537;}
+    margin-right: 537;
+}
+
+.topblock {
+
+    margin-top: -4em;
+    margin-bottom: 10px;
+    margin-left: -0.3em;
+   
+}
+
+.facebook {
+margin-left: 110px;
+margin-top: 40px;
+position: absolute;
+}
+
+.twitter {
+    margin-left: 170px;
+    margin-top: 40px;
+    position: absolute;
+
+}
+
+.google {
+    margin-left: 230px;
+    margin-top: 40px;
+    position: absolute;
+
+}
+
+.link {
+    margin-left: 150px;
+    margin-top: -0.9em;
+    position: absolute;
+    
+
+}
