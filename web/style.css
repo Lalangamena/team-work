@@ -17,6 +17,7 @@ a:hover {
 }
 .navbar-logo {
     color: #fff; 
+    font-size: 18px;
 }
 .navbar-toggle{
     display: block;
